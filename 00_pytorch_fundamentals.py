@@ -107,6 +107,7 @@ int16_tensor # Returns the same tensor as previously, but with no decimals & a d
 #& Tensor device is obtainable by using `tensor.device`
 
 #? These cover the 3 major errors encountered.
+# Hello Linux Fedora 
 
 some_tensor = torch.rand(3,4)
 
